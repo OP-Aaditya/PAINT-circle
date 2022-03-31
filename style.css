@@ -1,0 +1,17 @@
+.body_background{
+    background-image: url(bg1.jpg); 
+    background-position:center;
+    background-size:cover;
+}
+#my_canvas{
+    background-color: antiquewhite;
+  border-style: ridge;
+border-width: 3;
+
+}
+
+
+input{
+    margin-top: 20px;
+    
+}
